@@ -40,7 +40,6 @@ Automation-JAV-Showcase
 
 A Java-based automation and quality engineering project demonstrating web automation, API/HTTP validation, reporting, technical auditing, and automated testing workflows.
 
-🔗 Repository link coming soon
 
 📚 Currently Learning
 Python
