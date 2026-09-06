@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @LensKimenyi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Claudine
+QA Automation Engineer
+
+About Me
+🛠️ Tech Stack
+🚀 Featured Projects
+   → Automation-JAV-Showcase
+   
+📚 Currently Learning
+🤝 Connect With Me
 
 <!---
 LensKimenyi/LensKimenyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
