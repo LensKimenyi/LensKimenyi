@@ -1,4 +1,4 @@
-👋 Hi, I'm Claudine
+👋 Hi, I'm Claudine,
 QA Automation Engineer
 
 About Me
